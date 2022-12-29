@@ -1,1 +1,2 @@
 # C-OOP-Excercises[01. CSharp-OOP-Inheritance-Lab.docx](https://github.com/VasilLozev/C-OOP-Excercises/files/10303165/01.CSharp-OOP-Inheritance-Lab.docx)
+[01. CSharp-OOP-Inheritance-Exercise.docx](https://github.com/VasilLozev/C-OOP-Excercises/files/10322199/01.CSharp-OOP-Inheritance-Exercise.docx)
