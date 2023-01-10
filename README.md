@@ -4,3 +4,4 @@
 
 [Encapsusalion - Excercises.docx](https://github.com/VasilLozev/C-OOP-Excercises/files/10345803/Encapsusalion.-.Excercises.docx)
 [03. CSharp-OOP-Interfaces-and-Abstraction-Lab.docx](https://github.com/VasilLozev/C-OOP-Excercises/files/10368947/03.CSharp-OOP-Interfaces-and-Abstraction-Lab.docx)
+[03. CSharp-OOP-Interfaces-And-Abstraction-Exercise.docx](https://github.com/VasilLozev/C-OOP-Excercises/files/10382972/03.CSharp-OOP-Interfaces-And-Abstraction-Exercise.docx)
